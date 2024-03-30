@@ -1,3 +1,4 @@
+![logo](https://github.com/reinard123123/reinard123123/blob/master/Fullstack.JPG)
 <h1 align="center">Hi 👋, I'm Reinard Bornillo</h1>
 <h3 align="center">I'm Full Stack Web Developer</h3>
 

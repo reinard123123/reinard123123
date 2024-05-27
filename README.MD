@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinard123123" alt="reinard123123" /></a> </p>
 
-- 🔭 I’m currently working on [Data Specialist](at Microsourcing)
+- 🔭 I’m former Data Specialist at EMAPTA
 
 - 📫 How to reach me **reinardbornillo15@gmail.com**
 
